@@ -1,4 +1,3 @@
-/* Apply a style to at least one HTML tag */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -6,13 +5,11 @@ body {
     padding: 0;
 }
 
-/* Create at least one class, apply it to at least two elements, and style it */
 .description {
     color: #555;
     font-size: 1.2em;
 }
 
-/* Create at least one id, apply it to an element, and style it */
 #header {
     background-color: #333;
     color: white;
@@ -24,7 +21,6 @@ body {
     padding: 20px;
 }
 
-/* Use a CSS selector to change the color of <a> when you hover the cursor over it */
 a {
     text-decoration: none;
     color: #3498db;
@@ -34,18 +30,14 @@ a:hover {
     color: #2ecc71;
 }
 
-/* Change at least two box model properties of any tag, class, or id */
 #image-section img {
     width: 300px;
     border: 5px solid #ccc;
     padding: 10px;
 }
 
-/* Dividing content into two sections */
 .container {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 20px;
 }
-
-/* Include an image, meta description, and make sure all elements are properly styled */
