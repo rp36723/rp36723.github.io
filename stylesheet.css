@@ -41,3 +41,10 @@ a:hover {
     grid-template-columns: 1fr;
     grid-gap: 20px;
 }
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
